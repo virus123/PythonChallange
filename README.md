@@ -21,3 +21,10 @@ Level 0:
   so
   well i think this is the level where coding begames
   
+  i used  ``.maketrans`` to string to change latters
+  and what i get is
+  >i hope you didnt translate it by hand. thats what computers are for. doing itin by hand is inefficient and that's why this text is so long. using string.maketrans() is recommended. now apply on the url.
+  
+  so yeaa i guess i was right and now we have the ``map`` in url changin it we get ``ocr``
+  
+  Thus we get url
