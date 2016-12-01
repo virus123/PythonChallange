@@ -43,3 +43,5 @@ Level 0:
     >find rare characters in the mess below
     
     hmm so this is gonna be tricky ``FUCK`` 
+    well first of all i am gonna get this comment from source and get into programm
+    
