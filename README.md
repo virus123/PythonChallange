@@ -27,4 +27,19 @@ Level 0:
   
   so yeaa i guess i was right and now we have the ``map`` in url changin it we get ``ocr``
   
-  Thus we get url
+  Thus we get following url
+  [http://www.pythonchallenge.com/pc/def/ocr.html](url)
+
+    Level 2:
+    hmm so hint reads :
+    
+    >recognize the characters. maybe they are in the book,
+    but MAYBE they are in the page source.
+    
+    and as url suggest this must be ``Optical character recognition``
+    
+    so in url i found a large cluster string of special charcters 
+    title on it reads 
+    >find rare characters in the mess below
+    
+    hmm so this is gonna be tricky ``FUCK`` 
