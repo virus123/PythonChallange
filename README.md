@@ -44,4 +44,21 @@ Level 0:
     
     hmm so this is gonna be tricky ``FUCK`` 
     well first of all i am gonna get this comment from source and get into programm
+    yes so 
+    this was easyier then i expected it to be.
+    all i had to was find the char's that were repeating only once in that 99820 charcters string.
     
+    Answer : Equality
+    Thus we get following url
+    [http://www.pythonchallenge.com/pc/def/equality.html](url)
+    
+ Level 3:
+    there picture of candels and it reads
+    >One small latter, surrounded by EXACTLY three big bodyguards on each of its sides
+    
+    so once agian there is a long strings of Characters in source code
+    but thing about this string is that charcter's are small and capital alphabets and as hint suggest 
+    it seems we are looking for one small latter surrounded by three capital latters on each side
+    
+    
+       
